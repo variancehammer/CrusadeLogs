@@ -46,8 +46,11 @@ Total XP:
 Rank
 ----
 Rank:
+
 Battle Honors:
+
 Battle Scars:
+
 
 Combat Log
 ---
