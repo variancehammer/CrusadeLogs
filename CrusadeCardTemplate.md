@@ -32,14 +32,16 @@ Crusade Points:
 Unit History
 ---
 Battles Played:
+
 Battles Survived:
+
 Enemy Units Destroyed:
-Enemy Units Destroyed (Psychic):
-Enemy Units Destroyed (Ranged):
-Enemy Units Destroyed (Melee):
+* Enemy Units Destroyed (Psychic):
+* Enemy Units Destroyed (Ranged):
+* Enemy Units Destroyed (Melee):
 
 Total XP:
-XP from Agendas:
+* XP from Agendas:
 
 Rank
 ----
