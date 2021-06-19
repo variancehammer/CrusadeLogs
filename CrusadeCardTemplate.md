@@ -5,18 +5,29 @@ Unit Information
 ----
 
 Battlefield Role:
+
 Crusade Faction:
+
 Selectable Keywords:
 
+
 Unit Type:
+
 Equipment:
+
 Psychic Powers:
+
 Warlord Traits:
+
 Relics:
 
+
 Power Rating: 
+
 Experience Points: 
+
 Crusade Points:
+
 
 Unit History
 ---
