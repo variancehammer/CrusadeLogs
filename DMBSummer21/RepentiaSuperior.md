@@ -1,51 +1,50 @@
-$UnitName
+Repentia Superior $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Elites
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
+Selectable Keywords: Order of the Unnamed Martyr
+
+Unit Type: Repentia Superior
+
+Equipment: Neural Whips
+
+Psychic Powers: None
+
+Warlord Traits: None
+
+Relics: None
 
 
-Unit Type:
+Power Rating: 2
 
-Equipment:
+Experience Points: 1
 
-Psychic Powers:
-
-Warlord Traits:
-
-Relics:
-
-
-Power Rating: 
-
-Experience Points: 
-
-Crusade Points:
+Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
 * Enemy Units Destroyed (Melee):
 
-Total XP:
+Total XP: 1
 * XP from Agendas:
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 

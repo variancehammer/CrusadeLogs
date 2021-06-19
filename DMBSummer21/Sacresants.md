@@ -1,56 +1,55 @@
-$UnitName
+Celestian Sacresants $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Elites
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
+Selectable Keywords: Order of the Unnamed Martyr
 
+Unit Type: Celestian Sacresants
 
-Unit Type:
+Equipment: 4x Hallowed Maces, Sister Superior with Spear of the Faithful and Hand Flamer
 
-Equipment:
+Psychic Powers: None
 
-Psychic Powers:
+Warlord Traits: None
 
-Warlord Traits:
+Relics: None
 
-Relics:
+Power Rating: 3
 
+Experience Points: 8
 
-Power Rating: 
-
-Experience Points: 
-
-Crusade Points:
+Crusade Points: 1
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 3
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee):
+* Enemy Units Destroyed (Melee): 3
 
-Total XP:
-* XP from Agendas:
+Total XP: 8
+* XP from Agendas: 1
 
 Rank
 ----
-Rank:
+Rank: Blooded
 
-Battle Honors:
+Battle Honors: Veteran of the Convent
 
 Battle Scars:
 
 
 Combat Log
 ---
+* June 18th match vs. Dark Angels. Successful Seeds of the Imperium Agenda (1XP), 3 XP from mission victory, and *three* units killed.

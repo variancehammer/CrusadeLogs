@@ -1,51 +1,51 @@
-$UnitName
+Sisters Repentia $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Elites
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
-
-
-Unit Type:
-
-Equipment:
-
-Psychic Powers:
-
-Warlord Traits:
-
-Relics:
+Selectable Keywords: Order of the Unnamed Martyr
 
 
-Power Rating: 
+Unit Type: Sisters Repentia
 
-Experience Points: 
+Equipment: Four Sisters Repentia with Eviscerators 
 
-Crusade Points:
+Psychic Powers: None
+
+Warlord Traits: None
+
+Relics: None
+
+
+Power Rating: 3
+
+Experience Points: 1
+
+Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 0
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
 * Enemy Units Destroyed (Melee):
 
-Total XP:
-* XP from Agendas:
+Total XP: 1
+* XP from Agendas: 0
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 

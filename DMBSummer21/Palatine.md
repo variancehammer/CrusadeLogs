@@ -1,51 +1,51 @@
-$UnitName
+Palatine $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: HQ
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
-
-
-Unit Type:
-
-Equipment:
-
-Psychic Powers:
-
-Warlord Traits:
-
-Relics:
+Selectable Keywords: Order of the Unnamed Martyr
 
 
-Power Rating: 
+Unit Type: Palatine
 
-Experience Points: 
+Equipment: Power Sword
 
-Crusade Points:
+Psychic Powers: None
+
+Warlord Traits: Indomitable Belief
+
+Relics: Wrath of the Emperor
+
+
+Power Rating: 3
+
+Experience Points: 1
+
+Crusade Points: 2
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
 * Enemy Units Destroyed (Melee):
 
-Total XP:
-* XP from Agendas:
+Total XP: 1
+* XP from Agendas: 0
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 
@@ -54,3 +54,4 @@ Battle Scars:
 
 Combat Log
 ---
+* June 18th battle, was named as a Hunt for the Fallen agenda by the Dark Angels, survived.

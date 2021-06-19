@@ -1,51 +1,49 @@
-$UnitName
+Battle Sisters Squad $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Troops
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
+Selectable Keywords: Order of the Unnamed Martyr
 
+Unit Type: Battle Sisters
 
-Unit Type:
+Equipment: 3x Battle Sisters with Bolt Guns. Sister Superior with Power Sword and Bolt Gun. Battle Sister with Heavy Flamer
 
-Equipment:
+Psychic Powers: None
 
-Psychic Powers:
+Warlord Traits: None
 
-Warlord Traits:
+Relics: None
 
-Relics:
+Power Rating: 3
 
+Experience Points: 1
 
-Power Rating: 
-
-Experience Points: 
-
-Crusade Points:
+Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
 * Enemy Units Destroyed (Melee):
 
-Total XP:
+Total XP: 1
 * XP from Agendas:
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 

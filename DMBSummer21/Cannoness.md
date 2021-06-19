@@ -6,7 +6,7 @@ Unit Information
 
 Battlefield Role: HQ
 
-Crusade Faction: Adepta Sororitas
+Crusade Faction: Imperium
 
 Selectable Keywords: Order of the Unnamed Martyr
 
@@ -22,7 +22,7 @@ Relics: Mantle of Ophelia
 
 Power Rating: 3
 
-Experience Points: 
+Experience Points: 5
 
 Crusade Points: 2
 

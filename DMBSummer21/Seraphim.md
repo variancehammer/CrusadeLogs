@@ -1,18 +1,18 @@
-Rhino $Name
+Seraphim $UnitName
 ====
 
 Unit Information
 ----
 
-Battlefield Role: Dedicated Transport
+Battlefield Role: Fast Attack
 
 Crusade Faction: Imperium
 
 Selectable Keywords: Order of the Unnamed Martyr
 
-Unit Type: Rhino
+Unit Type: Seraphim
 
-Equipment: Storm Bolter
+Equipment: 3x Paired Bolt Pistols, 2x Paired Hand Flamers, Sister Superior with Bolt Pistol and Power Sword
 
 Psychic Powers:
 
@@ -22,7 +22,7 @@ Relics:
 
 Power Rating: 4
 
-Experience Points: 1
+Experience Points: 2
 
 Crusade Points: 0
 
@@ -33,13 +33,13 @@ Battles Played: 1
 
 Battles Survived: 1
 
-Enemy Units Destroyed: 0
+Enemy Units Destroyed:
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee):
+* Enemy Units Destroyed (Ranged): 1
+* Enemy Units Destroyed (Melee): 
 
-Total XP: 1
-* XP from Agendas:
+Total XP: 2
+* XP from Agendas: 0
 
 Rank
 ----

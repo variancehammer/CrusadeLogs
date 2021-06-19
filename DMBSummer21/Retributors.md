@@ -1,19 +1,18 @@
-$UnitName
+Retributors $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Heavy Support
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
+Selectable Keywords: Order of the Unnamed Martyr
 
+Unit Type: Retributors
 
-Unit Type:
-
-Equipment:
+Equipment: 4x Multimeltas, 2x Cherubs
 
 Psychic Powers:
 
@@ -21,31 +20,30 @@ Warlord Traits:
 
 Relics:
 
+Power Rating: 6
 
-Power Rating: 
+Experience Points: 2
 
-Experience Points: 
-
-Crusade Points:
+Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 1
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged):
+* Enemy Units Destroyed (Ranged): 1
 * Enemy Units Destroyed (Melee):
 
-Total XP:
-* XP from Agendas:
+Total XP: 2
+* XP from Agendas: 0
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 

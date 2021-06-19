@@ -1,19 +1,18 @@
-$UnitName
+$Mortifiers
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Heavy Support
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
+Selectable Keywords: Order of the Unnamed Martyr
 
+Unit Type: Mortifiers
 
-Unit Type:
-
-Equipment:
+Equipment: Chain Flails and Heavy Bolters
 
 Psychic Powers:
 
@@ -21,31 +20,30 @@ Warlord Traits:
 
 Relics:
 
+Power Rating: 6
 
-Power Rating: 
-
-Experience Points: 
+Experience Points: 4
 
 Crusade Points:
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 3
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee):
+* Enemy Units Destroyed (Ranged): 2
+* Enemy Units Destroyed (Melee): 1
 
-Total XP:
-* XP from Agendas:
+Total XP: 4
+* XP from Agendas: 0
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 
@@ -54,3 +52,4 @@ Battle Scars:
 
 Combat Log
 ---
+* Excellent performance in June 18th battle vs. Dark Angels, rolled up an entire flank basically solo

@@ -1,56 +1,64 @@
-$UnitName
+Dogmata $Name
 ====
 
 Unit Information
 ----
 
-Battlefield Role:
+Battlefield Role: Elites
 
-Crusade Faction:
+Crusade Faction: Imperium
 
-Selectable Keywords:
+Selectable Keywords: Order of the Unnamed Martyr
 
+Unit Type: Dogmata
 
-Unit Type:
+Equipment: Bolt Pistol, Mace of the Righteous
 
-Equipment:
+Psychic Powers: None
 
-Psychic Powers:
+Warlord Traits: None
 
-Warlord Traits:
+Relics: None
 
-Relics:
+Power Rating: 4
 
-
-Power Rating: 
-
-Experience Points: 
+Experience Points: 4
 
 Crusade Points:
 
 
 Unit History
 ---
-Battles Played:
+Battles Played: 1
 
-Battles Survived:
+Battles Survived: 1
 
-Enemy Units Destroyed:
+Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
 * Enemy Units Destroyed (Melee):
 
-Total XP:
-* XP from Agendas:
+Total XP: 4
+* XP from Agendas: 0
 
 Rank
 ----
-Rank:
+Rank: Battle Ready
 
 Battle Honors:
 
 Battle Scars:
 
+Saint Potentia
+----
+Trials:
+* Trial 1: 2
+* Trial 2: 0
+* Trial 3: 0
+* Trial 4: 0
+* Trial 5: 0
+
 
 Combat Log
 ---
+* June 18th battle vs. Dark Angels. Marked for Greatness due to her buffing of the Celestian Sacresants. Also earned 2 Saint Points.
