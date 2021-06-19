@@ -7,7 +7,8 @@ Crusade Faction: Imperium, Adepta Sororitas
 
 * Battle Tally: 1
 * Battles Won: 1
-* Requisition Points: 2
+* Requisition Points (Current): 2
+* Requisition Points (Total): 6
 * Supply Limit: 50
 * Supply Used: 50
 
