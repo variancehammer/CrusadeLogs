@@ -30,10 +30,10 @@ Crusade Cards
 |   |   |   |
 | Seraphim  | 4  |   |
 |   |   |   |
-| Retributors   |   |   |
-| Mortifiers   |   |   |
+| Retributors   | 6   |   |
+| Mortifiers   | 6   |   |
 |   |   |   |
-| Rhino  |   |   |
+| Rhino  | 4   |   |
 
 
 
