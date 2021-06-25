@@ -52,7 +52,7 @@ Battle Scars:
 Saint Potentia
 ----
 Trials:
-* Trial 1: 2
+* Trial 1: 3
 * Trial 2: 0
 * Trial 3: 0
 * Trial 4: 0
@@ -61,4 +61,4 @@ Trials:
 
 Combat Log
 ---
-* June 18th battle vs. Dark Angels. Marked for Greatness due to her buffing of the Celestian Sacresants. Also earned 2 Saint Points.
+* June 18th battle vs. Dark Angels. Marked for Greatness due to her buffing of the Celestian Sacresants. Also earned 3 Saint Points.
