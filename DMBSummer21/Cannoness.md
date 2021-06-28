@@ -22,30 +22,30 @@ Relics: Mantle of Ophelia
 
 Power Rating: 3
 
-Experience Points: 5
+Experience Points: 6
 
-Crusade Points: 2
+Crusade Points: 3
 
 
 Unit History
 ---
-Battles Played: 1
+Battles Played: 2
 
-Battles Survived: 1
+Battles Survived: 2
 
 Enemy Units Destroyed:
 * Enemy Units Destroyed (Psychic): 0
 * Enemy Units Destroyed (Ranged): 0
 * Enemy Units Destroyed (Melee): 0
 
-Total XP: 5
+Total XP: 6
 * XP from Agendas: 4
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Bloodied
 
-Battle Honors:
+Battle Honors: Zealous Devotion
 
 Battle Scars:
 

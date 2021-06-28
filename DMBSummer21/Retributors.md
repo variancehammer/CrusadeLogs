@@ -22,33 +22,34 @@ Relics:
 
 Power Rating: 6
 
-Experience Points: 2
+Experience Points: 8
 
 Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played: 1
+Battles Played: 2
 
-Battles Survived: 1
+Battles Survived: 2
 
 Enemy Units Destroyed: 1
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged): 1
+* Enemy Units Destroyed (Ranged): 3
 * Enemy Units Destroyed (Melee):
 
-Total XP: 2
-* XP from Agendas: 0
+Total XP: 5
+* XP from Agendas: 1
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Bloodied
 
-Battle Honors:
+Battle Honors: Ardent Onslaught (Melta always half range, from Piety and Pain)
 
 Battle Scars:
 
 
 Combat Log
 ---
+* June 25th - Marked for Greatness, one XP from Seeds of the Imperium

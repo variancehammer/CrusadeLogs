@@ -22,37 +22,37 @@ Relics: None
 
 Power Rating: 4
 
-Experience Points: 4
+Experience Points: 10
 
-Crusade Points:
+Crusade Points: 1
 
 
 Unit History
 ---
-Battles Played: 1
+Battles Played: 2
 
-Battles Survived: 1
+Battles Survived: 2
 
-Enemy Units Destroyed: 0
+Enemy Units Destroyed: 2
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee):
+* Enemy Units Destroyed (Melee): 2
 
-Total XP: 4
-* XP from Agendas: 0
+Total XP: 10
+* XP from Agendas: 3
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Bloodied
 
-Battle Honors:
+Battle Honors: Solem in Prayer
 
 Battle Scars:
 
 Saint Potentia
 ----
 Trials:
-* Trial 1: 3
+* Trial 1: 7
 * Trial 2: 0
 * Trial 3: 0
 * Trial 4: 0

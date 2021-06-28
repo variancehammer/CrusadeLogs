@@ -22,24 +22,24 @@ Relics: None
 
 Power Rating: 6
 
-Experience Points: 2
+Experience Points: 5
 
 Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played: 1
+Battles Played: 2
 
-Battles Survived: 1
+Battles Survived: 2
 
 Enemy Units Destroyed: 1
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged): 1
+* Enemy Units Destroyed (Ranged): 2
 * Enemy Units Destroyed (Melee):
 
-Total XP: 2
-* XP from Agendas:
+Total XP: 5
+* XP from Agendas: 1
 
 Rank
 ----
@@ -53,3 +53,4 @@ Battle Scars:
 Combat Log
 ---
 * June 18th battle with Dark Angels, responsible for the death of a Lieutenant
+* June 25th battle, one XP from Test of Faith

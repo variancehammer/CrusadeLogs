@@ -22,33 +22,34 @@ Relics:
 
 Power Rating: 4
 
-Experience Points: 2
+Experience Points: 6
 
-Crusade Points: 0
+Crusade Points: 1
 
 
 Unit History
 ---
-Battles Played: 1
+Battles Played: 2
 
-Battles Survived: 1
+Battles Survived: 2
 
 Enemy Units Destroyed:
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged): 1
+* Enemy Units Destroyed (Ranged): 2
 * Enemy Units Destroyed (Melee): 
 
-Total XP: 2
-* XP from Agendas: 0
+Total XP: 6
+* XP from Agendas: 2
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Bloodied
 
-Battle Honors:
+Battle Honors: Pure of Soul
 
 Battle Scars:
 
 
 Combat Log
 ---
+* June 25th: 2 XP from Seeds of the Imperium

@@ -29,14 +29,14 @@ Crusade Points:
 
 Unit History
 ---
-Battles Played: 1
+Battles Played: 2
 
 Battles Survived: 1
 
-Enemy Units Destroyed: 3
+Enemy Units Destroyed: 4
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged): 2
-* Enemy Units Destroyed (Melee): 1
+* Enemy Units Destroyed (Melee): 2
 
 Total XP: 4
 * XP from Agendas: 0
@@ -53,3 +53,4 @@ Battle Scars:
 Combat Log
 ---
 * Excellent performance in June 18th battle vs. Dark Angels, rolled up an entire flank basically solo
+* Killed in June 25th battle after slaying a unit of Blade Guard. Took 0 XP
