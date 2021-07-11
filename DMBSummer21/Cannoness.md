@@ -22,24 +22,24 @@ Relics: Mantle of Ophelia
 
 Power Rating: 3
 
-Experience Points: 6
+Experience Points: 9
 
 Crusade Points: 3
 
 
 Unit History
 ---
-Battles Played: 2
+Battles Played: 3
 
-Battles Survived: 2
+Battles Survived: 3
 
 Enemy Units Destroyed:
 * Enemy Units Destroyed (Psychic): 0
 * Enemy Units Destroyed (Ranged): 0
-* Enemy Units Destroyed (Melee): 0
+* Enemy Units Destroyed (Melee): 1
 
-Total XP: 6
-* XP from Agendas: 4
+Total XP: 9
+* XP from Agendas: 6
 
 Rank
 ----

@@ -22,30 +22,32 @@ Relics: None
 
 Power Rating: 3
 
-Experience Points: 12
+Experience Points: 18
 
-Crusade Points: 1
+Crusade Points: 2
 
 
 Unit History
 ---
-Battles Played: 2
+Battles Played: 3
 
-Battles Survived: 2
+Battles Survived: 3
 
-Enemy Units Destroyed: 4
+Enemy Units Destroyed: 5
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee): 4
+* Enemy Units Destroyed (Melee): 5
 
-Total XP: 12
-* XP from Agendas: 3
+Total XP: 18
+* XP from Agendas: 4
 
 Rank
 ----
-Rank: Blooded
+Rank: Battle-Hardened
 
-Battle Honors: Veteran of the Convent
+Battle Honors: 
+* Veteran of the Convent
+* Zealous Devotion
 
 Battle Scars:
 

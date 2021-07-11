@@ -5,12 +5,13 @@ Crusade Force Name: Order of the Unnamed Martyr, Admetus Priory
 
 Crusade Faction: Imperium, Adepta Sororitas
 
-* Battle Tally: 2
-* Battles Won: 2
-* Requisition Points (Current): 7
-* Requisition Points (Total): 12
+* Battle Tally: 4
+* Battles Won: 3
+* Requisition Points (Current): 8
+* Requisition Points (Total): 13
 * Supply Limit: 50
 * Supply Used: 50
+* Crusade Points: 13
 
 Crusade Cards
 -----
@@ -26,8 +27,8 @@ Crusade Cards
 |   |   |   |
 | Repentia Superior  | 2  |   |
 | Repentia  | 3  | 1  |
-| Celestian Sacresants  | 3  | 1  |
-| Dogmata  | 4  | 2  |
+| Celestian Sacresants  | 3  | 2  |
+| Dogmata  | 4  | 3  |
 |   |   |   |
 | Seraphim  | 4  | 1  |
 |   |   |   |

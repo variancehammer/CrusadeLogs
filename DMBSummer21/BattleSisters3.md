@@ -22,30 +22,31 @@ Relics: None
 
 Power Rating: 6
 
-Experience Points: 5
+Experience Points: 6
 
-Crusade Points: 0
+Crusade Points: 1
 
 
 Unit History
 ---
-Battles Played: 2
+Battles Played: 3
 
-Battles Survived: 2
+Battles Survived: 3
 
 Enemy Units Destroyed: 1
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged): 2
 * Enemy Units Destroyed (Melee):
 
-Total XP: 5
+Total XP: 6
 * XP from Agendas: 1
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Bloodied
 
 Battle Honors:
+* Exemplars of the Creed
 
 Battle Scars:
 

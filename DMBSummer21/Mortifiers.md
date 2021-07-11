@@ -22,23 +22,23 @@ Relics:
 
 Power Rating: 6
 
-Experience Points: 4
+Experience Points: 5
 
 Crusade Points:
 
 
 Unit History
 ---
-Battles Played: 2
+Battles Played: 3
 
-Battles Survived: 1
+Battles Survived: 2
 
 Enemy Units Destroyed: 4
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged): 2
 * Enemy Units Destroyed (Melee): 2
 
-Total XP: 4
+Total XP: 5
 * XP from Agendas: 0
 
 Rank
