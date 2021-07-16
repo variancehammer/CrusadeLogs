@@ -7,11 +7,11 @@ Crusade Faction: Imperium, Adepta Sororitas
 
 * Battle Tally: 4
 * Battles Won: 3
-* Requisition Points (Current): 8
+* Requisition Points (Current): 1
 * Requisition Points (Total): 13
-* Supply Limit: 50
+* Supply Limit: 75
 * Supply Used: 50
-* Crusade Points: 13
+* Crusade Points: 15
 
 Crusade Cards
 -----
@@ -28,7 +28,7 @@ Crusade Cards
 | Repentia Superior  | 2  |   |
 | Repentia  | 3  | 1  |
 | Celestian Sacresants  | 3  | 2  |
-| Dogmata  | 4  | 3  |
+| Dogmata  | 4  | 5  |
 |   |   |   |
 | Seraphim  | 4  | 1  |
 |   |   |   |

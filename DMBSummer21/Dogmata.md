@@ -24,7 +24,7 @@ Power Rating: 4
 
 Experience Points: 20
 
-Crusade Points: 3
+Crusade Points: 5
 
 
 Unit History
@@ -58,6 +58,21 @@ Trials:
 * Trial 3: 0
 * Trial 4: 0
 * Trial 5: 0
+
+Prayers
+---
+* Battle Hymn
+* Litany of Enduring Faith
+* Refrain of Blazing Piety
+* Psalm of Righteous Smiting
+
+Warlord Trait
+---
+* Inspiring Orator
+
+Relic
+---
+* The Sigil Ecclesiasticus
 
 
 Combat Log
