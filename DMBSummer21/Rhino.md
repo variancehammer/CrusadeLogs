@@ -1,4 +1,4 @@
-Rhino $Name
+Imperfect Vessel
 ====
 
 Unit Information
@@ -22,23 +22,23 @@ Relics:
 
 Power Rating: 4
 
-Experience Points: 3
+Experience Points: 5
 
 Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played: 3
+Battles Played: 7
 
-Battles Survived: 3
+Battles Survived: 6
 
 Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
 * Enemy Units Destroyed (Melee):
 
-Total XP: 3
+Total XP: 5
 * XP from Agendas:
 
 Rank

@@ -24,35 +24,36 @@ Relics: None
 
 Power Rating: 3
 
-Experience Points: 9
+Experience Points: 
 
-Crusade Points: 1
+Crusade Points: 0
 
 
 Unit History
 ---
-Battles Played: 4
+Battles Played: 0
 
-Battles Survived: 3
+Battles Survived: 0
 
-Enemy Units Destroyed: 2
+Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee): 2
+* Enemy Units Destroyed (Melee): 0
 
-Total XP: 9
-* XP from Agendas: 5
+Total XP: 0
+* XP from Agendas: 0
 
 Rank
 ----
-Rank: Bloodied
+Rank: Battle-Ready
 
 Battle Honors:
-* Armored with Contempt
+
 
 Battle Scars:
+
+Redemption Points: 
 
 
 Combat Log
 ---
-* June 28th - Got the Battle Weary battle scar. Purchased off with RP.

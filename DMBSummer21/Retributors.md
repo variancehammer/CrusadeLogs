@@ -22,30 +22,31 @@ Relics:
 
 Power Rating: 6
 
-Experience Points: 10
+Experience Points: 13
 
-Crusade Points: 0
+Crusade Points: 2
 
 
 Unit History
 ---
-Battles Played: 4
+Battles Played: 7
 
-Battles Survived: 4
+Battles Survived: 7
 
-Enemy Units Destroyed: 1
+Enemy Units Destroyed: 7
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged): 3
+* Enemy Units Destroyed (Ranged): 7
 * Enemy Units Destroyed (Melee):
 
-Total XP: 10
+Total XP: 13
 * XP from Agendas: 1
 
 Rank
 ----
-Rank: Bloodied
+Rank: Battle-hardened
 
-Battle Honors: Ardent Onslaught (Melta always half range, from Piety and Pain)
+Battle Honors: 
+* Ardent Onslaught (Melta always half range, from Piety and Pain)
 
 Battle Scars:
 

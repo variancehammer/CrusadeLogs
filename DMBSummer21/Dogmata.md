@@ -22,31 +22,33 @@ Relics: None
 
 Power Rating: 4
 
-Experience Points: 20
+Experience Points: 32
 
-Crusade Points: 5
+Crusade Points: 7
 
 
 Unit History
 ---
-Battles Played: 4
+Battles Played: 12
 
-Battles Survived: 4
+Battles Survived: 12
 
-Enemy Units Destroyed: 3
-* Enemy Units Destroyed (Psychic):
+Enemy Units Destroyed: 10
+* Enemy Units Destroyed (Prayer): 1
 * Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee): 3
+* Enemy Units Destroyed (Melee): 9
 
-Total XP: 20
+Total XP: 32
 * XP from Agendas: ??
 
 Rank
 ----
-Rank: Battle-Hardened
+Rank: Heroic
 
 Battle Honors: 
-* Solem in Prayer x2
+* Solem in Prayer
+* Bombastic Projection (+1 to Prayers)
+* Weapon - Finely Balanced (+1 to hit)
 
 Battle Scars:
 
@@ -54,7 +56,7 @@ Saint Potentia
 ----
 Trials:
 * Trial 1: Complete - Trial of Faith
-* Trial 2: 0
+* Trial 2: 6 - Trial of Righteousness
 * Trial 3: 0
 * Trial 4: 0
 * Trial 5: 0
@@ -73,6 +75,7 @@ Warlord Trait
 Relic
 ---
 * The Sigil Ecclesiasticus
+* Praesidium Rosarius
 
 
 Combat Log
@@ -80,3 +83,5 @@ Combat Log
 * June 18th battle vs. Dark Angels. Marked for Greatness due to her buffing of the Celestian Sacresants. Also earned 3 Saint Points.
 * June 28th battle vs. Mechanicum. Absolute beast in combat - 4 XP and Marked for Greatness. Earned 1 Saint Point.
 * July 9th - Trial of Faith completed. Trial of Righteousness begun.
+* July 14 - Three points from Seed of the Imperium
+* July 16th - Absolute monster vs. Drukhari. Killed a Succubus, 5 Wyches, 5 Kabalites, and a Archon (last wound PrayerSmite). Recovered Relic. Four saint points.

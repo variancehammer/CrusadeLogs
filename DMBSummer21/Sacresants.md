@@ -29,25 +29,25 @@ Crusade Points: 2
 
 Unit History
 ---
-Battles Played: 3
+Battles Played: 9
 
-Battles Survived: 3
+Battles Survived: 9
 
-Enemy Units Destroyed: 5
+Enemy Units Destroyed: 6
 * Enemy Units Destroyed (Psychic):
 * Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee): 5
+* Enemy Units Destroyed (Melee): 6
 
 Total XP: 18
 * XP from Agendas: 4
 
 Rank
 ----
-Rank: Battle-Hardened
+Rank: Blooded
 
 Battle Honors: 
 * Veteran of the Convent
-* Zealous Devotion
+* Valor of Saints
 
 Battle Scars:
 

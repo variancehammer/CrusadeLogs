@@ -21,33 +21,37 @@ Warlord Traits: Indomitable Belief
 
 Relics: Wrath of the Emperor
 
+Blessings of the Faithful: Righteous Judgement
 
-Power Rating: 3
+Power Rating: 4
 
-Experience Points: 5
+Experience Points: 21
 
-Crusade Points: 2
+Crusade Points: 6
 
 
 Unit History
 ---
-Battles Played: 4
+Battles Played: 12
 
-Battles Survived: 4
+Battles Survived: 12
 
 Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged):
-* Enemy Units Destroyed (Melee): 2
+* Enemy Units Destroyed (Ranged):1
+* Enemy Units Destroyed (Melee): 3
 
-Total XP: 5
+Total XP: 21
 * XP from Agendas: 0
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Battle Hardened
 
 Battle Honors:
+* Zealous Devotion
+* Heroic Constitution (+1 W)
+* Swift and Agile (+1 move, +1 to advance and charge - chosen as victory reward)
 
 Battle Scars:
 
@@ -55,3 +59,5 @@ Battle Scars:
 Combat Log
 ---
 * June 18th battle, was named as a Hunt for the Fallen agenda by the Dark Angels, survived.
+* Battle vs. Ultramarines, Marked for Greatness
+* Battle vs. AdMech, Marked for Greatness

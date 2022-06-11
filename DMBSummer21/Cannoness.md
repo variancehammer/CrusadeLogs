@@ -22,30 +22,30 @@ Relics: Mantle of Ophelia
 
 Power Rating: 3
 
-Experience Points: 9
+Experience Points: 13
 
 Crusade Points: 3
 
 
 Unit History
 ---
-Battles Played: 3
+Battles Played: 7
 
-Battles Survived: 3
+Battles Survived: 7
 
 Enemy Units Destroyed:
 * Enemy Units Destroyed (Psychic): 0
 * Enemy Units Destroyed (Ranged): 0
-* Enemy Units Destroyed (Melee): 1
+* Enemy Units Destroyed (Melee): 2
 
-Total XP: 9
-* XP from Agendas: 6
+Total XP: 15
+* XP from Agendas: 9
 
 Rank
 ----
 Rank: Bloodied
 
-Battle Honors: Zealous Devotion
+Battle Honors: Veteran of the Convent
 
 Battle Scars:
 
@@ -53,3 +53,4 @@ Battle Scars:
 Combat Log
 ---
 * June 18 game vs. Dark Angels, successfully completes the Survivor Agenda for 4 XP.
+* July 14 game - 3 points from Seed of the Imperium

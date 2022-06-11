@@ -22,30 +22,31 @@ Relics: None
 
 Power Rating: 3
 
-Experience Points: 4
+Experience Points: 7
 
-Crusade Points: 0
+Crusade Points: 1
 
 
 Unit History
 ---
-Battles Played: 4
+Battles Played: 7
 
-Battles Survived: 4
+Battles Survived: 7
 
 Enemy Units Destroyed: 0
 * Enemy Units Destroyed (Psychic):
-* Enemy Units Destroyed (Ranged): 1
+* Enemy Units Destroyed (Ranged): 
 * Enemy Units Destroyed (Melee):
 
-Total XP: 4
+Total XP: 7
 * XP from Agendas:
 
 Rank
 ----
-Rank: Battle Ready
+Rank: Bloodied
 
 Battle Honors:
+* Pure of Soul (Dropped)
 
 Battle Scars:
 
